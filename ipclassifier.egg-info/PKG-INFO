@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ipclassifier
+Version: 0.1.0
+Summary: A library to classify IP addresses by their class
+Author: Mehdi
+Author-email: boussalem.e192@ucd.ac.ma
+License: MIT
+Requires-Python: >=3.6

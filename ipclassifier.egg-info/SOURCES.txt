@@ -1,0 +1,6 @@
+README.md
+setup.py
+ipclassifier.egg-info/PKG-INFO
+ipclassifier.egg-info/SOURCES.txt
+ipclassifier.egg-info/dependency_links.txt
+ipclassifier.egg-info/top_level.txt
